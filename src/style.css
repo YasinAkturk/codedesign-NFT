@@ -21,4 +21,10 @@
       font-display: optional;
       src: url(/fonts/Ubuntu-Regular.ttf) format("truetype");
     }
+    @font-face {
+      font-family: "Inter-Black";
+      font-style: normal;
+      font-display: block;
+      src: url(/fonts/Inter-Black.ttf) format("truetype");
+    }
   }
