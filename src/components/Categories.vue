@@ -12,14 +12,14 @@ import CategoriCard from "./card/CategoriCard.vue";
 import { ref } from "vue";
 
 const list = ref([
-  { image: "images/categories/categori1.png", title: "Art" },
-  { image: "images/categories/categori2.png", title: "Collection" },
-  { image: "images/categories/categori3.png", title: "Domain Name" },
-  { image: "images/categories/categori4.png", title: "Music" },
-  { image: "images/categories/categori5.png", title: "Photography" },
-  { image: "images/categories/categori6.png", title: "Sport" },
-  { image: "images/categories/categori7.png", title: "Trading Card" },
-  { image: "images/categories/categori8.png", title: "Utility" },
+  { image: "/images/categories/categori1.png", title: "Art" },
+  { image: "/images/categories/categori2.png", title: "Collection" },
+  { image: "/images/categories/categori3.png", title: "Domain Name" },
+  { image: "/images/categories/categori4.png", title: "Music" },
+  { image: "/images/categories/categori5.png", title: "Photography" },
+  { image: "/images/categories/categori6.png", title: "Sport" },
+  { image: "/images/categories/categori7.png", title: "Trading Card" },
+  { image: "/images/categories/categori8.png", title: "Utility" },
 ]);
 </script>
 

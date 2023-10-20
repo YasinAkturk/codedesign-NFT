@@ -11,13 +11,13 @@
 import { ref } from "vue";
 import TopSellerCard from "./card/TopSellerCard.vue";
 const list = ref([
-    { image: "images/topSeller/seller1.svg", title: "RizKhen" },
-    { image: "images/topSeller/seller2.svg", title: "Jhiehe" },
-    { image: "images/topSeller/seller3.svg", title: "Fukiep" },
-    { image: "images/topSeller/seller4.svg", title: "Hags" },
-    { image: "images/topSeller/seller5.svg", title: "Berhans" },
-    { image: "images/topSeller/seller6.svg", title: "Abdliie" },
-    { image: "images/topSeller/seller7.svg", title: "Wetur Art" },
-    { image: "images/topSeller/seller8.svg", title: "Pokko" },
+    { image: "/images/topSeller/seller1.svg", title: "RizKhen" },
+    { image: "/images/topSeller/seller2.svg", title: "Jhiehe" },
+    { image: "/images/topSeller/seller3.svg", title: "Fukiep" },
+    { image: "/images/topSeller/seller4.svg", title: "Hags" },
+    { image: "/images/topSeller/seller5.svg", title: "Berhans" },
+    { image: "/images/topSeller/seller6.svg", title: "Abdliie" },
+    { image: "/images/topSeller/seller7.svg", title: "Wetur Art" },
+    { image: "/images/topSeller/seller8.svg", title: "Pokko" },
 ])
 </script>

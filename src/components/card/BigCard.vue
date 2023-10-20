@@ -2,18 +2,18 @@
     <div class="w-[553px] h-[816px] p-[40px] rounded-[32px] gradiant">
         <div class="w-full flex justify-between items-center">
             <div class="flex gap-[12px]">
-                <img src="images/flame.png" alt="flame">
+                <img src="/images/flame.svg" alt="flame">
                 <span class="font-bold text-[32px] text-white">Item Ending Soon</span>
             </div>
             <img class="cursor-pointer" src="/images/leftCircle.svg" alt="left">
         </div>
         <div class="mt-[30px] mb-[40px]">
-            <img class="w-full rounded-[12px] mb-[40px]" src="images/endingImage.webp" alt="">
+            <img class="w-full rounded-[12px] mb-[40px]" src="/images/endingImage.webp" alt="">
             <div class="flex flex-col mb-[30px]">
                 <span class="font-bold text-[26px] text-white">Hurricane (Common Body)</span>
                 <div class="flex gap-[12px]">
                     <span class="font-medium text-[20px] text-white">by Spider Tanks</span>
-                    <img src="images/approved.svg" alt="approved">
+                    <img src="/images/approved.svg" alt="approved">
                 </div>
             </div>
             <div class="w-full flex justify-between">

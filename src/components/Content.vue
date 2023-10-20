@@ -20,10 +20,10 @@ import BigCard from "./card/BigCard.vue";
 import SmallCard from "./card/SmallCard.vue";
 
 const newAuctionList = ref([
-    { url: "images/smallCard/sCard1.webp", title: "Somewhere Else: 094 - Palm Trees & Basketball", price: "0.5 ETH", time: "03:23:23" },
-    { url: "images/smallCard/sCard2.webp", title: "DRIP #515", price: "0.7 ETH", time: "00:33:44" },
-    { url: "images/smallCard/sCard3.webp", title: "Bikes of Burden #28. Ribs.", price: "2.5 ETH", time: "01:22:08" },
-    { url: "images/smallCard/sCard4.webp", title: "Rizzo Collection #36", price: "1.2 ETH", time: "08:17:13" }
+    { url: "/images/smallCard/sCard1.webp", title: "Somewhere Else: 094 - Palm Trees & Basketball", price: "0.5 ETH", time: "03:23:23" },
+    { url: "/images/smallCard/sCard2.webp", title: "DRIP #515", price: "0.7 ETH", time: "00:33:44" },
+    { url: "/images/smallCard/sCard3.webp", title: "Bikes of Burden #28. Ribs.", price: "2.5 ETH", time: "01:22:08" },
+    { url: "/images/smallCard/sCard4.webp", title: "Rizzo Collection #36", price: "1.2 ETH", time: "08:17:13" }
 ])
 </script>
 
