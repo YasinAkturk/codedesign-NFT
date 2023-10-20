@@ -1,5 +1,8 @@
+<script setup>
+import Navbar from "./components/Navbar.vue";
+import Slider from "./components/Slider.vue";
+</script>
 <template>
-  <h1 class="text-3xl font-bold text-primary underline">
-    Hello world!
-  </h1>
+  <Navbar />
+  <Slider />
 </template>
