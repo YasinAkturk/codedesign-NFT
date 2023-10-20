@@ -6,19 +6,19 @@
     @font-face {
       font-family: "Ubuntu-Bold";
       font-style: normal;
-      font-display: optional;
+      font-display: block;
       src: url(/fonts/Ubuntu-Bold.ttf) format("truetype");
     }
     @font-face {
       font-family: "Ubuntu-Medium";
       font-style: normal;
-      font-display: optional;
+      font-display: block;
       src: url(/fonts/Ubuntu-Medium.ttf) format("truetype");
     }
     @font-face {
       font-family: "Ubuntu-Regular";
       font-style: normal;
-      font-display: optional;
+      font-display: block;
       src: url(/fonts/Ubuntu-Regular.ttf) format("truetype");
     }
     @font-face {
