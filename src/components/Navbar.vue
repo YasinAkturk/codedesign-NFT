@@ -1,6 +1,6 @@
 <template>
-    <div class="px-[50px] py-[10px] flex justify-between items-center">
-        <div class="flex items-end">
+    <div class="px-[50px] py-[10px] bg-[#141414] fixed top-0 z-[999] w-full flex justify-between items-center">
+        <div class="flex items-end cursor-pointer">
             <img src="/images/logo.svg" alt="logo">
             <span class="text-[26px] text-[#fff] font-black leading-normal">MahyuNFT</span>
         </div>
