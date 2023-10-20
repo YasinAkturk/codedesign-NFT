@@ -2,7 +2,7 @@
     <div class="w-[553px] h-[816px] p-[40px] rounded-[32px] gradiant">
         <div class="w-full flex justify-between items-center">
             <div class="flex gap-[12px]">
-                <img src="images/flame.svg" alt="flame">
+                <img src="images/flame.png" alt="flame">
                 <span class="font-bold text-[32px] text-white">Item Ending Soon</span>
             </div>
             <img class="cursor-pointer" src="/images/leftCircle.svg" alt="left">
