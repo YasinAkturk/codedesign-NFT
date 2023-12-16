@@ -17,7 +17,7 @@
         <div
           class="relative z-0 flex justify-center items-end pb-[60px] px-[337px] h-[602px]"
         >
-          <img class="absolute top-0 z-0" :src="item" alt="Slider" />
+          <img class="absolute top-0 z-0" priority fetchpriority="high" :src="item" alt="Slider" />
           <div class="relative flex flex-col items-center gap-[44px]">
             <div
               class="font-inter text-[100px] leading-tight text-center text-transparent bg-clip-text cursor-default bg-gradient-to-b from-primary to-[#D279F5]"
