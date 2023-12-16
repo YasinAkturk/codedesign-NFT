@@ -8,8 +8,11 @@
 </template>
 
 <script setup>
+import { defineAsyncComponent } from 'vue'
+const TopSellerCard = defineAsyncComponent(() =>
+  import('./card/TopSellerCard.vue')
+)
 import { ref } from "vue";
-import TopSellerCard from "./card/TopSellerCard.vue";
 const list = ref([
     { image: "/images/topSeller/seller1.svg", title: "RizKhen" },
     { image: "/images/topSeller/seller2.svg", title: "Jhiehe" },
